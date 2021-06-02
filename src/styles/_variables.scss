@@ -1,0 +1,19 @@
+$lightGrey: #7C7777;
+$darkGrey: #535353;
+$darkBlue: #4F59B6;
+$textColor: #313131;
+$primary: #ffc342;;
+
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+.iconWrapper{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+.title{
+    font-size: 1.1rem;
+    font-weight: bold;
+}
